@@ -30,7 +30,6 @@ If you have ideas for joint articles, projects, or digital resources — feel fr
 
 ## ⚡ Support Our Work
 If you enjoy our content and would like to support us, you can contribute here:  
-- ⚡** Support Our Blog**:https://paypal.me/BhagyashreeBadiger?country.x=IN&locale.x=en_GB
 - Support the blog via PayPal: (https://paypal.me/BhagyashreeBadiger?country.x=IN&locale.x=en_GB)
 
 
