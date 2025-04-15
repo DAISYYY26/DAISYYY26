@@ -15,7 +15,7 @@ Hey there — we're **@theweeklyblog**, your go-to destination for insightful co
 - Newsletter Marketing Strategies  
 - Medium & LinkedIn Content Monetization  
 
-## 💞️ Open to Collaborations
+## 💡 Open to Collaborations
 We’d love to team up with:
 - **Bloggers & Content Creators**
 - **Web Developers & WordPress Experts**
