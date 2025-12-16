@@ -1,40 +1,59 @@
-# 👋 Welcome to The Weekly Blog!
+Heyy there!!!
+I'm a Junior Software Developer actively seeking remote opportunities. I enjoy learning, building real-world projects, and growing as a developer in collaborative teams.
 
-Hey there — we're **@theweeklyblog**, your go-to destination for insightful content on web development, WordPress, digital tools, and online freelancing. We're passionate about sharing valuable resources, tutorials, and guides to help developers and digital creators thrive.
+About Me :
 
-## 👀 What We’re Interested In
-- Web Development & Design  
-- WordPress Development & Customization  
-- Blogging & Content Creation  
-- Affiliate Marketing & Digital Monetization  
-- Productivity Tools & Freelancing Tips  
+- Junior Software Developer (Remote-ready)
 
-## 🌱 Currently Learning
-- Advanced WordPress Theme & Plugin Development  
-- SEO Optimization for Blogs  
-- Newsletter Marketing Strategies  
-- Medium & LinkedIn Content Monetization  
+- Actively learning and improving my skills
 
-## 💡 Open to Collaborations
-We’d love to team up with:
-- **Bloggers & Content Creators**
-- **Web Developers & WordPress Experts**
-- **Newsletter Creators**
-- **Digital Marketers**
+- Interested in clean code, problem solving, and scalable applications
 
-If you have ideas for joint articles, projects, or digital resources — feel free to reach out!
+- Open to junior roles, and open-source collaboration
+  
+Tech Stack -
 
-## 📫 Contact Us
-📧 **Email:** [contacttheweeklyblog@gmail.com](mailto:contacttheweeklyblog@gmail.com)  
-🌐 **Visit Our Website:** [theweeklyblog.com](https://theweeklyblog.com)
+Languages:
 
-## ⚡ Support Our Work
-If you enjoy our content and would like to support us, you can contribute here:  
-- Support the blog via PayPal: (https://paypal.me/BhagyashreeBadiger?country.x=IN&locale.x=en_GB)
+- HTML
+- CSS
+- JavaScript 
+
+Frameworks & Tools:
+
+- React
+- Node.js
+- Express.js
+- Git & GitHub
+
+Projects - 
+
+Here are a few things I’ve worked on:
+
+- Small to mid-scale web applications
+
+- Practice projects focused on fundamentals
+
+- Learning-based projects showcasing growth
+
+(Check pinned repositories below)
+
+What I'm Focusing On - 
+
+- Strengthening fundamentals (DSA, system basics)
+
+- Writing clean, readable code
+
+- Contributing to open source
+
+- Preparing for junior developer interviews
 
 
----
+Contact Details:
 
-<!---
-DAISYYY26/DAISYYY26 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
+ Email: bshree2604@gmail.com
+
+ LinkedIn: https://www.linkedin.com/in/bhagyashree-8b5165349/?originalSubdomain=in
+
+
+ If you're hiring or mentoring junior developers, feel free to hire me!!!
