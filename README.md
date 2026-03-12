@@ -1,59 +1,97 @@
-Heyy there!!!
-I'm a Junior Software Developer actively seeking remote opportunities. I enjoy learning, building real-world projects, and growing as a developer in collaborative teams.
+# Hey there! 👋 I'm Bhagyashree
 
-About Me :
+**Full Stack Web Developer** | Built production-grade applications with React & Node.js with AI Integration 
 
-- Junior Software Developer (Remote-ready)
+---
 
-- Actively learning and improving my skills
+## About Me
 
-- Interested in clean code, problem solving, and scalable applications
+I'm a Full Stack Web Developer with expertise in modern JavaScript, React, and Node.js. I specialize in building scalable, user-centric applications and have hands-on experience with AI integration, real-time features, and complex state management.
 
-- Open to junior roles, and open-source collaboration
-  
-Tech Stack -
+🎯 **Open to Remote opportunities** across Australia, UK, and Europe  
+📍 Based in Kalaburagi, India | IST Timezone  
+💼 Recently graduated | 3+ years of self-learning + 3-month internship experience  
 
-Languages:
+---
 
-- HTML
-- CSS
-- JavaScript 
+## What I'm Currently Focusing On
 
-Frameworks & Tools:
+- 🚀 Building production-grade full-stack applications
+- 📚 Learning System Design & Data Structures (JavaScript)
+- ⚡ Exploring Next.js for server-side rendering
+- 🤖 Deepening AI/LLM API integration skills
 
-- React
-- Node.js
-- Express.js
-- Git & GitHub
+---
 
-Projects - 
+## Tech Stack
 
-Here are a few things I’ve worked on:
+### Frontend
+**React** • TypeScript • TanStack Query • React Hook Form • Tailwind CSS • HTML5 • CSS3
 
-- Small to mid-scale web applications
+### Backend
+**Node.js** • Express.js • REST APIs • JWT Authentication • WebSockets (Socket.io)
 
-- Practice projects focused on fundamentals
+### Database
+**MongoDB** • Mongoose • Schema Design • Indexing
 
-- Learning-based projects showcasing growth
+### AI & Integrations
+**OpenAI API** • Third-party API integration • Prompt engineering • Response parsing
 
-(Check pinned repositories below)
+### Tools & DevOps
+**Git** • GitHub • Postman • VS Code • Figma • WordPress
 
-What I'm Focusing On - 
+---
 
-- Strengthening fundamentals (DSA, system basics)
+## Featured Projects
 
-- Writing clean, readable code
+### 🎯 FlowForge — AI-Powered Team Collaboration SaaS
+**Technologies:** React • TypeScript • Node.js • MongoDB • Socket.io • OpenAI API
 
-- Contributing to open source
+AI-assisted team collaboration platform with real-time task updates and intelligent task breakdowns. Features JWT authentication, WebSocket sync, and TanStack Query for complex state management.
 
-- Preparing for junior developer interviews
+🔗 [GitHub](https://github.com/bshree11/flowforge) | 🌐 [Live Demo](#)
 
+### 🎬 PulsePick — AI Content Discovery Engine
+**Technologies:** React • TypeScript • Node.js • MongoDB • OpenAI API • TMDB API
 
-Contact Details:
+Intelligent content discovery platform that learns user preferences and suggests movies/shows based on mood. Features infinite scroll, debounced search, and smart AI recommendations.
 
- Email: bshree2604@gmail.com
+🔗 [GitHub](https://github.com/bshree11/pulsepick) | 🌐 [Live Demo](#)
 
- LinkedIn: https://www.linkedin.com/in/bhagyashree-8b5165349/?originalSubdomain=in
+---
 
+## Education & Certifications
 
- If you're hiring or mentoring junior developers, feel free to hire me!!!
+**BSc Computer Science & Electronics** (2021-2024)  
+Your University Name • Bengaluru, India
+
+**Certifications:**
+- Frontend Development (Coursera)
+- Backend Development (Coursera)
+- Full Stack Development (Coursera)
+
+**Currently Learning:**
+- Data Structures & Algorithms (JavaScript)
+- System Design fundamentals
+
+**Professional Experience:**
+- Frontend Development Intern at Digisnare Technologies (3 months)
+
+---
+
+## Languages
+
+🇮🇳 **Telugu** (Native) • **Kannada** (Native) • **Hindi** (Fluent)  
+🇬🇧 **English** (Professional/Fluent)
+
+---
+
+## Let's Connect!
+
+📧 **Email:** bshree2604@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/bhagyashree-8b5165349](https://www.linkedin.com/in/bhagyashree-8b5165349/?originalSubdomain=in)  
+💻 **GitHub:** [github.com/bshree11](https://github.com/bshree11)  
+
+---
+
+*I'm actively building and learning. Open to remote opportunities and collaborations. Let's build something amazing together!*
