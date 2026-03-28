@@ -88,7 +88,7 @@ Your University Name • Bengaluru, India
 
 ## Let's Connect!
 
-📧 **Email:** bshree2604@gmail.com  
+📧 **Email:** bhagyashreebadiger.dev@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/bhagyashree-8b5165349](https://www.linkedin.com/in/bhagyashree-8b5165349/?originalSubdomain=in)  
 💻 **GitHub:** [github.com/bshree11](https://github.com/bshree11)  
 
